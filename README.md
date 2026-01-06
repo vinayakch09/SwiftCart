@@ -51,10 +51,6 @@ SwiftCart is both **easy to understand** and **highly customizable**, making it 
 
 ---
 
-If you'd like, I can now **insert this formatted section into your full README** or style the entire README with headings, emojis, badges, and screenshot placeholders.
-
----
-
 ## 🔥 Quick summary
 
 * **Frontend:** React + Vite (fast dev, HMR)
